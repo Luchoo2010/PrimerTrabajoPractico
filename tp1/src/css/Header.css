@@ -1,0 +1,7 @@
+.foto{
+    width: 200px;
+    height: 200px;
+    background-image: url(../assets/images.jpg);
+    background-size: cover;
+    border-radius: 50%;
+}

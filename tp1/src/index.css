@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  font-family:initial;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: beige;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.correo{  
+  
+  width:100% ;
+  bottom: 0em;
+  position: absolute;
+  color: black;
+ 
+}
+
+.img{
+  justify-content: center;
+  display: flex;
+  gap: 2em;
+  bottom: 0em;
+}
+
+.foot{
+  text-align: center;
+  width:100% ;
+  bottom: 0em;
+  position: absolute;
+ background-color: gray;
+
+}
+
+.parrafo{
+  font-size:larger;
+}
